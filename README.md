@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Howard Morrow 👋
+My name is Howard Morrow.  I am a developer and database / IT professional living in Hawaii.  
 <!--
 **hmorrow/hmorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
